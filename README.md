@@ -1,4 +1,4 @@
-# atividade_u4_paradigmas_em_projeto_de_software_estratégico
+# Gerenciamento de Configuração no Desenvolvimento de Software
 
 **Explanação dos Benefícios do Gerenciamento de Artefatos em Projetos de Software**
 
