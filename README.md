@@ -1,4 +1,4 @@
-# atividade_U4_PARADIGMAS_EM_PROJETO_DE_SOFTWARE_ESTRAT-GICO
+# atividade_u4_paradigmas_em_projeto_de_software_estratégico
 
 **Explanação dos Benefícios do Gerenciamento de Artefatos em Projetos de Software**
 
